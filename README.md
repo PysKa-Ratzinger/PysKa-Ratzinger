@@ -8,8 +8,5 @@
 
                          _Coding is my life._
 
-Shall there come a time where I no longer code, then I will no longer be the me
-that created this account.
-
-- That is all. Love you all.
+               I'll stop when coding is not fun anymore.
 ```
