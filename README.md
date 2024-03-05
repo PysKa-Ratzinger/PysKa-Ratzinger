@@ -7,6 +7,4 @@
       /____/                                                 /____/             
 
                          _Coding is my life._
-
-               I'll stop when coding is not fun anymore.
 ```
